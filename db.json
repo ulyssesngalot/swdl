@@ -54,6 +54,26 @@
       "id": 11,
       "name": "USA-LOS ANGELES",
       "desc": "USA-LOS ANGELES"
+    },
+    {
+      "id": 12,
+      "name": "SINGAPORE",
+      "desc": "SINGAPORE"
+    },
+    {
+      "id": 13,
+      "name": "HONGKONG",
+      "desc": "HONGKONG"
+    },
+    {
+      "id": 14,
+      "name": "PHILIPPINES",
+      "desc": "PHILIPPINES"
+    },
+    {
+      "id": 15,
+      "name": "JAPAN",
+      "desc": "JAPAN"
     }
   ],
   "profile": {
