@@ -1,0 +1,62 @@
+{
+  "regions": [
+    {
+      "id": 1,
+      "name": "PERU",
+      "desc": "PERU"
+    },
+    {
+      "id": 1,
+      "name": "CHILE",
+      "desc": "CHILE"
+    },
+    {
+      "id": 1,
+      "name": "URUGUAY",
+      "desc": "URUGUAY"
+    },
+    {
+      "id": 1,
+      "name": "ARGENTINA",
+      "desc": "ARGENTINA"
+    },
+    {
+      "id": 1,
+      "name": "COLOMBIA",
+      "desc": "COLOMBIA"
+    },
+    {
+      "id": 1,
+      "name": "SPAIN",
+      "desc": "SPAIN"
+    },
+    {
+      "id": 1,
+      "name": "USA-WISCONSIN",
+      "desc": "USA-WISCONSIN"
+    },
+    {
+      "id": 1,
+      "name": "ITALY",
+      "desc": "ITALY"
+    },
+    {
+      "id": 1,
+      "name": "FRANCE",
+      "desc": "FRANCE"
+    },
+    {
+      "id": 1,
+      "name": "USA-NEW YORK",
+      "desc": "USA-NEW YORK"
+    },
+    {
+      "id": 1,
+      "name": "USA-LOS ANGELES",
+      "desc": "USA-LOS ANGELES"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
