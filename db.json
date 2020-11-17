@@ -79,12 +79,7 @@
       "id": 16,
       "name": "MALAYSIA",
       "desc": "MALAYSIA"
-    },
-    {
-      "id": 17,
-      "name": "MYANMAR",
-      "desc": "MYANMAR"
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
