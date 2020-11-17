@@ -81,9 +81,14 @@
       "desc": "MALAYSIA"
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "VIETNAM",
       "desc": "VIETNAM"
+    },
+    {
+      "id": 18,
+      "name": "LAOS",
+      "desc": "LAOS"
     }
   ],
   "profile": {
