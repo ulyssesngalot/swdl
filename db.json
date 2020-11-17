@@ -100,7 +100,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_2",
@@ -110,7 +110,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_3",
@@ -120,7 +120,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_4",
@@ -130,7 +130,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_5",
@@ -140,7 +140,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_6",
@@ -150,7 +150,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_7",
@@ -160,7 +160,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_8",
@@ -170,7 +170,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_9",
@@ -180,7 +180,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_10",
@@ -190,7 +190,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_11",
@@ -200,7 +200,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_12",
@@ -210,7 +210,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_13",
@@ -220,7 +220,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_14",
@@ -230,7 +230,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_15",
@@ -240,7 +240,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_16",
@@ -250,7 +250,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_17",
@@ -260,7 +260,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     },
     {
     "name": "stb_image_18",
@@ -270,7 +270,7 @@
     "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
-    "cdnLink1" : "https://cdn1.link"
+    "cdnLink2" : "https://cdn1.link"
     }
   ] 
 }
