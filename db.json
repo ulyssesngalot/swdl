@@ -59,21 +59,6 @@
       "id": 12,
       "name": "SINGAPORE",
       "desc": "SINGAPORE"
-    },
-    {
-      "id": 13,
-      "name": "HONGKONG",
-      "desc": "HONGKONG"
-    },
-    {
-      "id": 14,
-      "name": "PHILIPPINES",
-      "desc": "PHILIPPINES"
-    },
-    {
-      "id": 15,
-      "name": "JAPAN",
-      "desc": "JAPAN"
     }
   ],
   "stb_images": [
@@ -173,46 +158,6 @@
     "imageID": "0010",
     "version": "1",
     "dateUploaded": "12/12/2016",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_11",
-    "region": "PERU",
-    "imageID": "0011",
-    "version": "1",
-    "dateUploaded": "01/11/2028",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_12",
-    "region": "PERU",
-    "imageID": "0012",
-    "version": "1",
-    "dateUploaded": "12/15/2018",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_13",
-    "region": "PERU",
-    "imageID": "0013",
-    "version": "1",
-    "dateUploaded": "09/09/2020",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_14",
-    "region": "PERU",
-    "imageID": "0014",
-    "version": "1",
-    "dateUploaded": "05/08/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
     "cdnLink2" : "https://cdn1.link"
