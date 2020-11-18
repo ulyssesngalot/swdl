@@ -74,26 +74,6 @@
       "id": 15,
       "name": "JAPAN",
       "desc": "JAPAN"
-    },
-    {
-      "id": 16,
-      "name": "MALAYSIA",
-      "desc": "MALAYSIA"
-    },
-    {
-      "id": 17,
-      "name": "VIETNAM",
-      "desc": "VIETNAM"
-    },
-    {
-      "id": 18,
-      "name": "LAOS",
-      "desc": "LAOS"
-    },
-    {
-      "id": 19,
-      "name": "INDONESIA",
-      "desc": "INDONESIA"
     }
   ],
   "stb_images": [
@@ -233,46 +213,6 @@
     "imageID": "0014",
     "version": "1",
     "dateUploaded": "05/08/2020",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_15",
-    "region": "PERU",
-    "imageID": "0015",
-    "version": "1",
-    "dateUploaded": "10/11/2020",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_16",
-    "region": "PERU",
-    "imageID": "0016",
-    "version": "1",
-    "dateUploaded": "02/01/2020",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_17",
-    "region": "PERU",
-    "imageID": "0017",
-    "version": "1",
-    "dateUploaded": "02/01/2020",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_18",
-    "region": "PERU",
-    "imageID": "0018",
-    "version": "1",
-    "dateUploaded": "11/01/2020",
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
     "cdnLink2" : "https://cdn1.link"
