@@ -184,17 +184,80 @@
     {
       "id": "001",
       "name": "John Doe",
-      "desc": "admin desc"
+      "desc": "admin desc",
+      "username": "jay smith",
+      "email": "abc@yahoo.com",
+      "accountstatus": "active",
+      "role": "admin",
+      "group": "system ops",
+      "notificationtool": "email",   
+      "updatedby": "john doe",
+      "lastUpdate": "09/11/2020 08:11 AM"
     },
     {
       "id": "002",
       "name": "Jane Doe",
-      "desc": "user desc"
+      "desc": "user desc",
+      "username": "Jane Doe",
+      "email": "abc@yahoo.com",
+      "accountstatus": "active",
+      "role": "admin",
+      "group": "system ops",
+      "notificationtool": "email",   
+      "updatedby": "john doe",
+      "lastUpdate": "09/11/2020 08:11 AM"
     },
     {
       "id": "003",
       "name": "Sample user",
-      "desc": "viewer desc"
+      "desc": "viewer desc",
+      "username": "sample user",
+      "email": "abc@yahoo.com",
+      "accountstatus": "active",
+      "role": "admin",
+      "group": "system ops",
+      "notificationtool": "email",   
+      "updatedby": "john doe",
+      "lastUpdate": "09/11/2020 08:11 AM"
+    },
+     {
+      "id": "004",
+      "name": "Another User",
+      "desc": "viewer desc",
+      "username": "Another User",
+      "email": "abc@yahoo.com",
+      "accountstatus": "active",
+      "role": "admin",
+      "group": "system ops",
+      "notificationtool": "email",   
+      "updatedby": "john doe",
+      "lastUpdate": "09/11/2020 08:11 AM"
+    },
+     {
+      "id": "005",
+      "name": "User 1",
+      "desc": "viewer desc",
+      "username": "User 1",
+      "email": "abc@yahoo.com",
+      "accountstatus": "active",
+      "role": "admin",
+      "group": "system ops",
+      "notificationtool": "email",   
+      "updatedby": "john doe",
+      "lastUpdate": "09/11/2020 08:11 AM"
+    },
+      {
+      "id": "005",
+      "name": "User 2",
+      "desc": "viewer desc",
+      "username": "User 2",
+      "email": "abc@yahoo.com",
+      "accountstatus": "active",
+      "role": "admin",
+      "group": "system ops",
+      "notificationtool": "email",   
+      "updatedby": "john doe",
+      "lastUpdate": "09/11/2020 08:11 AM"
     }
   ],
   "userGroup": [
