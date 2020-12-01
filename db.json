@@ -5,16 +5,6 @@
       "name": "PERU",
       "desc": "PERU"
     },
-    {
-      "id": 2,
-      "name": "CHILE",
-      "desc": "CHILE"
-    },
-    {
-      "id": 3,
-      "name": "URUGUAY",
-      "desc": "URUGUAY"
-    },
   ],
   "stb_images": [
     {
@@ -26,57 +16,7 @@
     "size": "100kb",
     "cdnLink1" : "https://cdn1.link",
     "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_2",
-    "region": "PERU",
-    "imageID": "0002",
-    "version": "1",
-    "dateUploaded": "10/12/2020",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_3",
-    "region": "PERU",
-    "imageID": "0003",
-    "version": "1",
-    "dateUploaded": "03/15/2020",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_4",
-    "region": "PERU",
-    "imageID": "0004",
-    "version": "1",
-    "dateUploaded": "06/23/2020",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_5",
-    "region": "PERU",
-    "imageID": "0005",
-    "version": "1",
-    "dateUploaded": "09/11/2017",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_6",
-    "region": "PERU",
-    "imageID": "0006",
-    "version": "1",
-    "dateUploaded": "10/11/2018",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
+    }
   ],
   "userRoles": [
     {
