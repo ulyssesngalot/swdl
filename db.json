@@ -178,6 +178,16 @@
       "id": "003",
       "name": "viewer",
       "desc": "viewer desc"
+    },
+    {
+      "id": "004",
+      "name": "super admin",
+      "desc": "viewer desc"
+    },
+    {
+      "id": "005",
+      "name": "guest",
+      "desc": "viewer desc"
     }
   ],
    "users": [
