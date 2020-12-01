@@ -15,51 +15,6 @@
       "name": "URUGUAY",
       "desc": "URUGUAY"
     },
-    {
-      "id": 4,
-      "name": "ARGENTINA",
-      "desc": "ARGENTINA"
-    },
-    {
-      "id": 5,
-      "name": "COLOMBIA",
-      "desc": "COLOMBIA"
-    },
-    {
-      "id": 6,
-      "name": "SPAIN",
-      "desc": "SPAIN"
-    },
-    {
-      "id": 7,
-      "name": "USA-WISCONSIN",
-      "desc": "USA-WISCONSIN"
-    },
-    {
-      "id": 8,
-      "name": "ITALY",
-      "desc": "ITALY"
-    },
-    {
-      "id": 9,
-      "name": "FRANCE",
-      "desc": "FRANCE"
-    },
-    {
-      "id": 10,
-      "name": "USA-NEW YORK",
-      "desc": "USA-NEW YORK"
-    },
-    {
-      "id": 11,
-      "name": "USA-LOS ANGELES",
-      "desc": "USA-LOS ANGELES"
-    },
-    {
-      "id": 12,
-      "name": "SINGAPORE",
-      "desc": "SINGAPORE"
-    }
   ],
   "stb_images": [
     {
@@ -122,46 +77,6 @@
     "cdnLink1" : "https://cdn1.link",
     "cdnLink2" : "https://cdn1.link"
     },
-    {
-    "name": "stb_image_7",
-    "region": "PERU",
-    "imageID": "0007",
-    "version": "1",
-    "dateUploaded": "12/01/2019",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_8",
-    "region": "PERU",
-    "imageID": "0008",
-    "version": "1",
-    "dateUploaded": "07/12/2020",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_9",
-    "region": "PERU",
-    "imageID": "0009",
-    "version": "1",
-    "dateUploaded": "0911/2018",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    },
-    {
-    "name": "stb_image_10",
-    "region": "PERU",
-    "imageID": "0010",
-    "version": "1",
-    "dateUploaded": "12/12/2016",
-    "size": "100kb",
-    "cdnLink1" : "https://cdn1.link",
-    "cdnLink2" : "https://cdn1.link"
-    }
   ],
   "userRoles": [
     {
