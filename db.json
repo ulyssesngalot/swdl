@@ -163,7 +163,7 @@
     "cdnLink2" : "https://cdn1.link"
     }
   ],
-  "user-roles": [
+  "userRoles": [
     {
       "id": "001",
       "name": "admin",
@@ -197,7 +197,7 @@
       "desc": "viewer desc"
     }
   ],
-  "user-group": [
+  "userGroup": [
     {
       "id": "001",
       "name": "Project Manager",
