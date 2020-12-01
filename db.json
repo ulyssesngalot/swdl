@@ -4,7 +4,7 @@
       "id": "1",
       "name": "PERU",
       "desc": "PERU"
-    },
+    }
   ],
   "stb_images": [
     {
@@ -339,6 +339,6 @@
       "id": "003",
       "name": "Group 9",
       "desc": "viewer desc"
-    },
+    }
   ]
 }
