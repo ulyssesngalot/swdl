@@ -162,5 +162,56 @@
     "cdnLink1" : "https://cdn1.link",
     "cdnLink2" : "https://cdn1.link"
     }
-  ] 
+  ],
+  "user-roles": [
+    {
+      "id": "001",
+      "name": "admin",
+      "desc": "admin desc"
+    },
+    {
+      "id": "002",
+      "name": "user",
+      "desc": "user desc"
+    },
+    {
+      "id": "003",
+      "name": "viewer",
+      "desc": "viewer desc"
+    }
+  ],
+   "users": [
+    {
+      "id": "001",
+      "name": "John Doe",
+      "desc": "admin desc"
+    },
+    {
+      "id": "002",
+      "name": "Jane Doe",
+      "desc": "user desc"
+    },
+    {
+      "id": "003",
+      "name": "Sample user",
+      "desc": "viewer desc"
+    }
+  ],
+  "user-group": [
+    {
+      "id": "001",
+      "name": "Project Manager",
+      "desc": "admin desc"
+    },
+    {
+      "id": "002",
+      "name": "Senior Ops",
+      "desc": "user desc"
+    },
+    {
+      "id": "003",
+      "name": "Sample Group",
+      "desc": "viewer desc"
+    }
+  ],
 }
